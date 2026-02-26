@@ -1,0 +1,11 @@
+Added Component: Designator=C9(WCAP-ATG8_5x11x2)
+Added Component: Designator=C10(WCAP-ATG8_5x11x2)
+Added Component: Designator=C11(WCAP-ATG8_6.3x11x2.5)
+Added Component: Designator=C12(WCAP-ATG8_8x11.5x3.5)
+Added Component: Designator=C13(WCAP-ATG8_13x25x5)
+Added Member To Class: ClassName=DUAL_RPS Member=Component C9 35 Vdc, 22 uF
+Added Member To Class: ClassName=DUAL_RPS Member=Component C10 63 Vdc, 10 uF
+Added Member To Class: ClassName=DUAL_RPS Member=Component C11 35 Vdc, 100 uF
+Added Member To Class: ClassName=DUAL_RPS Member=Component C12 25 Vdc, 470 uF
+Added Member To Class: ClassName=DUAL_RPS Member=Component C13 50 Vdc, 1 mF
+Added Room: Name=DUAL_RPS

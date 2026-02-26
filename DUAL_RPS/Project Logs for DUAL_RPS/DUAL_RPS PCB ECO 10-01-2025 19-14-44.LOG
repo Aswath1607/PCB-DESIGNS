@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=U2-1
+Removed Pin From Net: NetName=NetU1_2 Pin=U2-2
+Change Component DesignItemId : Designator=U2 Old DesignItemId=MC7812CT New DesignItemId=MC7912ACT
+Change Component Comment : Designator=U2 Old Comment=MC7812CT New Comment=MC7912ACT
+Change Component Description : Designator=U2 Old Description=3-Terminal Positive Fixed Voltage Regulator New Description=Three-Terminal Negative Fixed Voltage Regulator
+Added Pin To Net: NetName=NetU1_2 Pin=U2-1
+Added Pin To Net: NetName=NetC5_2 Pin=U2-2
