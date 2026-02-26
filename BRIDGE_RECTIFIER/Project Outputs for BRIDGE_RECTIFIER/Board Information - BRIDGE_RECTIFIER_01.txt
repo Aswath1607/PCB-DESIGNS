@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\PCB INTERN  training aswath\PROJECT\BRIDGE_RECTIFIER\BRIDGE_RECTIFIER_01.PcbDoc
+Date         : 21-01-2025
+Time         : 11:27:29
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 17
+    Connections routed, 17
+    Connections remaing, 0
+count : 4

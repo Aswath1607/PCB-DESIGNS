@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [8_CHANNEL_RELAY_CARD.PrjPcb]
+   Generated File[8_CHANNEL_RELAY_CARD.TXT]
+   Generated File[8_CHANNEL_RELAY_CARD.DRL]
+   Generated File[8_CHANNEL_RELAY_CARD.LDP]
+   Generated File[8_CHANNEL_RELAY_CARD.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:45:17 On 21-01-2025

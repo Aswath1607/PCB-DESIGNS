@@ -1,0 +1,12 @@
+"Bill of Material for BRIDGE_RECTIFIER_01.PcbDoc"
+"On 21-01-2025 at 11:33:58"
+
+"Comment","Pattern","Quantity","Components"
+
+"Cap Pol1","RB7.6-15","1","C1","Polarized Capacitor (Radial)"
+"Cap","RAD-0.3","1","C2","Capacitor"
+"Diode 1N4007","DIO10.46-5.3x2.8","4","D1, D2, D3, D4","1 Amp General Purpose Rectifier"
+"Header 2","HDR1X2","2","P1, P2","Header, 2-Pin"
+"LED1","LED-1","1","D5","Typical RED GaAs LED"
+"MC7805ACT","221A-04","1","U1","3-Terminal Positive Fixed Voltage Regulator"
+"Res2","AXIAL-0.4","1","R1","Resistor"
