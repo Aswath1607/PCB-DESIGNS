@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MICROCONTROLLER.PcbDoc   22-01-2025  12:25:42
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MICROCONTROLLER.TXT
+EIA File   : MICROCONTROLLER.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.8mm (31.496mil)        Round          16               149.37 mm (5.88 Inch)
+T2        0.85mm (33.465mil)       Round          22               225.57 mm (8.88 Inch)
+T3        0.9mm (35.433mil)        Round          61               324.95 mm (12.79 Inch)
+T4        1mm (39.37mil)           Round          13               159.38 mm (6.27 Inch)
+T5        1.09mm (42.913mil)       Round          9                22.55 mm (0.89 Inch)
+T6        1.1mm (43.307mil)        Round          2                5.08 mm (0.20 Inch)
+T7        1.2mm (47.244mil)        Round          4                32.21 mm (1.27 Inch)
+T8        3mm (118.11mil)          Round          4                319.07 mm (12.56 Inch)
+T9        3.26mm (128.346mil)      Round          2                24.99 mm (0.98 Inch)
+---------------------------------------------------------------------------
+Totals                                            133              1263.18 mm (49.73 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

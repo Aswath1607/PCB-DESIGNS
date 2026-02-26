@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 2 New DesignItemId=PWR2.5
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X2 New Footprint=KLD-0202
+Change Component Comment : Designator=P1 Old Comment=Header 2 New Comment=PWR2.5
+Added Pin To Net: NetName=NetD2_1 Pin=P1-1A
+Added Pin To Net: NetName=NetD2_1 Pin=P1-1B
+Added Pin To Net: NetName=GND Pin=P1-2A
+Added Pin To Net: NetName=GND Pin=P1-2B
+Added Pin To Net: NetName=GND Pin=P1-3A
+Added Pin To Net: NetName=GND Pin=P1-3B
+Added Pin To Net: NetName=GND Pin=P1-3

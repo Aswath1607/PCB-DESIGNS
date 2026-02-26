@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=Y1 Old DesignItemId=XTAL New DesignItemId=ECS-18-13-1
+Change Component Footprint: Designator=Y1 Old Footprint=BCY-W2/D3.1 New Footprint=HC-49U
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=CAPR2.54-5.1x3.2
+Change Component Footprint: Designator=C3 Old Footprint=RAD-0.3 New Footprint=CAPR2.54-5.1x3.2
+Change Component Footprint: Designator=C6 Old Footprint=RAD-0.3 New Footprint=CAPR2.54-5.1x3.2
+Change Component Footprint: Designator=C7 Old Footprint=RAD-0.3 New Footprint=CAPR2.54-5.1x3.2
+Change Component Footprint: Designator=C11 Old Footprint=RAD-0.3 New Footprint=CAPR2.54-5.1x3.2
+Change Component Comment : Designator=Y1 Old Comment=22.1184MHZ New Comment=ECS-18-13-1
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC10_2

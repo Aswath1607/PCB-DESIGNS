@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MICROCONTROLLER.PrjPcb]
+   Generated File[MICROCONTROLLER_01.TXT]
+   Generated File[MICROCONTROLLER_01.DRL]
+   Generated File[MICROCONTROLLER_01.LDP]
+   Generated File[MICROCONTROLLER_01.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 22:21:29 On 22-01-2025
